@@ -61,11 +61,6 @@
   Fast version scales to n=100000 in ~0.25s.  
   Constant factor noticeable from sorting and strip merging.  
 
-### Plots
-*(Insert plots generated from your logs — e.g. `time vs n` for QuickSort/MergeSort, `depth vs n` for QuickSort.)*  
-- QuickSort shows sub-logarithmic depth relative to n.  
-- MergeSort shows linear depth in log scale.  
-- Closest Pair curve lies between n log n and n².  
 
 ---
 
